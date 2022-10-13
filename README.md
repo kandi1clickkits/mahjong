@@ -1,8 +1,1 @@
-Mahjong
-=======
-
-A simple mahjong game with HTML, CSS3 and JavaScript!
-
-You can play it [here](http://icyhippo.com/apps/mahjong/).
-
-Tested and working on **Chrome 34.0.1847.131 m** and **Firefox 29**.
+This fork is created for an easy install demo showcasing mahjong game. Find more details on the use case at https://kandi.openweaver.com/collections/gaming/mahjong
